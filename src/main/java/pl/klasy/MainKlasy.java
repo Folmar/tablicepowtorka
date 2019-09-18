@@ -36,6 +36,9 @@ public class MainKlasy {
         person.setAge(scanner.nextInt());*/
 //        personList.add(person);
 
+
+        //mozna pętlą forach ale stream szybszy (napisz tą pętlę w domu)
+        int count;
     }
 
     //ZAD.DOM
