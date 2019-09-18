@@ -5,7 +5,8 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         Random random = new Random();
-        int[] tablica = new int[random.nextInt(100)];
+//        int[] tablica = new int[random.nextInt(100)];
+        int[] tablica = new int[100];
         int[] oldTable = fillTheArray(tablica);
         printArray(oldTable);
         System.out.println();
